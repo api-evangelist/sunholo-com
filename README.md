@@ -1,4 +1,4 @@
-# sunholo-com
+# Holosun ApS
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,124 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-sunholo-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://sunholo.com/
+Holosun ApS (operating as Sunholo) provides AI engineering services, platforms, and solution architecture. Their offerings include AI virtual employees, decision budgeting tools, the AILANG suite for document intelligence, and customizable AI platforms for enterprises. The company focuses on production‑ready AI systems that integrate with data sources, scale with teams, and evolve with technology, targeting sectors such as legal tech, green energy, and document processing.
+
+**Areas:** AI · Platform · Engineering · Document-Processing · Legal-Tech
+
+## Holosun ApS on APIs.io
+
+Everything profiled for Holosun ApS is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sunholo-com/](https://apis.io/providers/sunholo-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Holosun ApS API](https://apis.io/apis/sunholo-com/sunholo-com-api/) — Holosun ApS API as documented publicly: 12 operations. Contract generated from the documentation by API Evangelist (2026-11-25); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [PostA2ATasksSendRequest](https://apis.io/schemas/sunholo-com/sunholo-com-post-a2-atasks-send-request/)
+- [PostA2ATasksSendResponse](https://apis.io/schemas/sunholo-com/sunholo-com-post-a2-atasks-send-response/)
+- [PostMcpMcpRequest](https://apis.io/schemas/sunholo-com/sunholo-com-post-mcp-mcp-request/)
+- [PostMcpRequest](https://apis.io/schemas/sunholo-com/sunholo-com-post-mcp-request/)
+- [PostMcpToolsRequest](https://apis.io/schemas/sunholo-com/sunholo-com-post-mcp-tools-request/)
+- [PostVacStreamingDemoSseResponse](https://apis.io/schemas/sunholo-com/sunholo-com-post-vac-streaming-demo-sse-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Sunholo Com Context](https://apis.io/jsonld/sunholo-com/sunholo-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Holosun ApS Overlay](https://apis.io/overlays/sunholo-com/sunholo-com-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Holosun ApS API Rules](https://apis.io/rules/sunholo-com/sunholo-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Holosun ApS Authentication](https://apis.io/security/sunholo-com/sunholo-com-authentication/)
+- [Holosun ApS Domain Security](https://apis.io/security/sunholo-com/sunholo-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sunholo.com/)
+- [Documentation](https://dev.sunholo.com/docs/)
+- [API reference](https://dev.sunholo.com/docs/)
+- [Blog](https://www.sunholo.com/blog/)
+- [Privacy policy](https://www.sunholo.com/privacy.html)
+- [GitHub](https://github.com/sunholo-data/)
+
+## API Evangelist rating
+
+**Kin Score 40.3** — developing · rubric 0.29.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 55.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 4.8 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 8.5 |
+
+**Agent readiness 19.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sunholo-com/](https://apis.io/providers/sunholo-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Holosun ApS: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sunholo-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
